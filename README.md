@@ -1,4 +1,4 @@
-# OCR with Tesseract
+# Rupom Image to Text
 
 This is an OCR (Optical Character Recognition) application that uses **Tesseract** to extract text from images. It supports both **Bangla** and **English** languages for text extraction.
 
