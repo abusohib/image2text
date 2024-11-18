@@ -1,14 +1,16 @@
 # image2text
-Rupom Image to Text
+# Rupom Image to Text
 
 This is an OCR (Optical Character Recognition) application that uses Tesseract to extract text from images. It supports both Bangla and English languages for text extraction.
 
-Features
+# Features
 Select an image to extract text.
 Supports Bangla (ben) and English (eng) languages.
 Copy extracted text to the clipboard.
 Text output is displayed in a text box with Bangla font support.
-Requirements
+
+# Requirements 
+
 Software
 Python 3.x: This program is developed with Python 3. Ensure that you have it installed on your system.
 Tesseract OCR: The core OCR engine that processes the images.
